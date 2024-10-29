@@ -1,0 +1,60 @@
+h1{
+    color: aquamarine
+}
+
+body{
+    background-color: black 
+}
+
+nav{
+    color: greenyellow
+}
+
+a{
+    color: white
+}
+a:visited {
+color: lightblue;
+  background-color: transparent;
+  text-decoration: none;
+}
+h1{
+    font-family: unset;
+}
+
+a{
+    text-decoration: none;      
+    color: black;
+    font-size:15px 
+}
+ 
+    ul {
+        list-style: square;
+    }
+img{
+width: 600px;
+height: 100px;
+border-radius: 50px
+}
+div{
+    border-top: 2px solid yellow;
+    border-right: 5px dashed red;
+    border-bottom: 1px dotted blue;
+    border-left: 2px dotted green;
+}
+header, footer {
+
+    background-color: grey ;
+    color: white;
+}
+
+h1 {
+text-align: center}
+
+#intro {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: white 
+}
+
+
